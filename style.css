@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}@font-face{
+    font-family: roboto;
+    src: url("Fontes/Roboto-Bold.ttf");
+}
+
+
+.cabecalho{
+    background-color: azure;
+
+   
+}
+h1{ 
+    font-size: 38px;
+    color: #3a8970;
+    text-align: center;
+    font-family: 'roboto';
+    padding: 50px;
+}
+.localizar{
+    margin-left: 525px;
+    font-family: 'roboto';
+    font-size: 35px;
+}
+input{
+    
+    margin-left: 450px;
+    width: 25%;
+    height: 45px;
+    font-family: 'roboto';
+    font-size: 15px;
+}
+button{
+    background-color: #3a8970;
+    border-radius: 55px;
+    color: whitesmoke;
+    font-family: 'roboto';
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#segunda-sessão{
+    background-image: url(Imagens/Sem-título-3.png);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 800px;
+    margin-top: 50px;}
